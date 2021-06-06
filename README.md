@@ -12,3 +12,4 @@
 ## Experiments
 
 All experiments can be found as Jupyter notebooks inside the playground folder.
+Some experiments (in particular Figure 8 in the main paper) use the code from: https://github.com/alexander-camuto/exp_reg_GNIs . 
